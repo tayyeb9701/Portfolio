@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf095b7e.css",
+    "main.js": "/Portfolio/static/js/main.edf4bc41.js",
+    "static/media/PDD.jpg": "/Portfolio/static/media/PDD.627319e9c797036a344c.jpg",
+    "static/media/PDD2.jpg": "/Portfolio/static/media/PDD2.64a4e564b46dad4ae503.jpg",
+    "static/media/spotify.png": "/Portfolio/static/media/spotify.94a7f550e967c256c1c2.png",
+    "static/media/generator.png": "/Portfolio/static/media/generator.bfe929be46b6aa6a6de9.png",
+    "static/media/Cinema.png": "/Portfolio/static/media/Cinema.efd5e5861d56868aacf3.png",
+    "static/media/meetic.png": "/Portfolio/static/media/meetic.d563dab14f6e78e27ac5.png",
+    "static/media/twitter.png": "/Portfolio/static/media/twitter.f52cd0d1bdfb95ecab1d.png",
+    "static/media/puissance.png": "/Portfolio/static/media/puissance.3a770089235a133d36f9.png",
+    "static/media/CV_Bhatti_Tayyeb.pdf": "/Portfolio/static/media/CV_Bhatti_Tayyeb.6e59a971dbd9b3bfdf10.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.bf095b7e.css.map": "/Portfolio/static/css/main.bf095b7e.css.map",
+    "main.edf4bc41.js.map": "/Portfolio/static/js/main.edf4bc41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf095b7e.css",
+    "static/js/main.edf4bc41.js"
+  ]
+}
