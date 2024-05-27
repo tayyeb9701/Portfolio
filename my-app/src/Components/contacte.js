@@ -8,17 +8,12 @@ const contacte = () => {
     return (
         <div id='contacte'>
             <h1>Contactez moi !</h1>
+            
             <div id="envoyer-email">
-                <form action="">
-                    <label for="nom">Nom : </label>
-                    <input type="text" id="nom" />
-                    <label for="email">Email : </label>
-                    <input type="text" id="email" />
-                    <label for="msg">Message : </label>
-                    <input type="text" id="msg" />
-                    <input type="button" id="valider" value="Envoyer" />
-                </form>
+                <p>Tayyeb.bhatti@epitech.eu</p>
+                <p>06-05-72-26-84</p>
             </div>
+            
             <br></br>
             <a href='#navbar'><FaArrowUp /></a>
         </div>
